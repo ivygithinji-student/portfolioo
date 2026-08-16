@@ -146,15 +146,15 @@ async def portfolio():
             
             <div class="lab-grid">
                 <div class="lab-card">
-                    <span class="badge">1-4</span>
-                    <a href="https://github.com/ivygithinji-student/cit-backend-course" target="_blank">
-                        CIT Backend Course
+                    <span class="badge">Labs 1-4</span>
+                    <a href="https://github.com/ivygithinji-student/gighub-api" target="_blank">
+                        GigHub API
                         <span class="repo-name">GitHub</span>
                     </a>
                 </div>
                 
                 <div class="lab-card">
-                    <span class="badge">5-6</span>
+                    <span class="badge">Labs 5-6</span>
                     <a href="https://github.com/ivygithinji-student/product-api" target="_blank">
                         Product API
                         <span class="repo-name">GitHub</span>
@@ -162,7 +162,7 @@ async def portfolio():
                 </div>
                 
                 <div class="lab-card">
-                    <span class="badge">7</span>
+                    <span class="badge">Lab 7</span>
                     <a href="https://github.com/ivygithinji-student/healthtrack-api" target="_blank">
                         HealthTrack API
                         <span class="repo-name">GitHub</span>
@@ -170,7 +170,7 @@ async def portfolio():
                 </div>
                 
                 <div class="lab-card">
-                    <span class="badge">8</span>
+                    <span class="badge">Lab 8</span>
                     <a href="https://github.com/ivygithinji-student/clinicguard-api" target="_blank">
                         ClinicGuard API
                         <span class="repo-name">GitHub</span>
@@ -178,7 +178,7 @@ async def portfolio():
                 </div>
                 
                 <div class="lab-card">
-                    <span class="badge">9</span>
+                    <span class="badge">Lab 9</span>
                     <a href="https://github.com/ivygithinji-student/sendit-api" target="_blank">
                         SendIt API
                         <span class="repo-name">GitHub</span>
